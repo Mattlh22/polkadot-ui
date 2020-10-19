@@ -1,5 +1,5 @@
 
-## polkadot block info in vue js
+## polkadot block info in vue js using polkadot api
 
-yarn serve
-yarn build
+yarn install
+npx vue-cli-service build
